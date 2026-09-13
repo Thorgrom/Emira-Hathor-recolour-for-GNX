@@ -36,4 +36,10 @@ Changelog:
 
 -Changed capture scene portraits and text.
 
+_**V1.2 Released**_
+
+--Adjusted clone attack power to the first spawn and spawn weight so she doesn't spawn all the time. This is to prevent you from completing mountain 2 on a new run without a massive goblin army.
+
+-Minor quest dialogue fixes.
+
 <img width="133" height="113" alt="spr_portrait_Emira_1" src="https://github.com/user-attachments/assets/997e351b-3297-46c8-acd6-afa30b3bd3f7" />

@@ -42,4 +42,19 @@ _**V1.2 Released**_
 
 -Minor quest dialogue fixes.
 
+
+_**V1.3**_
+
+-Fixed forgetting to recolour the hair ornament in portraits.
+
+_**V1.4 Released**_
+
+-Updated to 1.39
+
+-Atlas sheet
+
+-Adjusted original spawn and clone combat power due to stage number and quest mechanic
+
+-Quest mechanic added but dialogue isn't quite working as intended. Emira will fight you off a certain number of times before you can capture her but the dialogue trips. Code should work according to GNX documentation, will get fixed when new GNX bugs get fixed, maybe the code will fall in place somehow :)
+
 <img width="133" height="113" alt="spr_portrait_Emira_1" src="https://github.com/user-attachments/assets/997e351b-3297-46c8-acd6-afa30b3bd3f7" />

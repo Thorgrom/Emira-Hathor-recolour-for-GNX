@@ -9,6 +9,10 @@ There are numerous cells that have part of the skin change to the default skin a
 
 -No special dairy cell support yet. Will update when GNX allows special cells for custom characters.
 
+-Infinite Milk related to GNX stuff
+
+-Quest dialogue popups
+
 
 _**Things I want to change in the future:**_
 
